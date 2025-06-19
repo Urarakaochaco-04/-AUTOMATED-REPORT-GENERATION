@@ -84,6 +84,8 @@ This project helped me learn how to:
 
 It’s a fun and creative way to learn Python and can be reused for many other topics. Instead of manually writing reports, I can now let Python do the work for me!
 
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/c406f7f8-27a5-4982-bfa6-697693bdbb81)
 
 
 
