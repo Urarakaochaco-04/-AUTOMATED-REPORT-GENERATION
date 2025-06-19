@@ -86,6 +86,8 @@ It’s a fun and creative way to learn Python and can be reused for many other t
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/18105af2-8802-43fb-8d29-bec6e27228ed)
+
 
 
 
